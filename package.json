@@ -14,6 +14,6 @@
     "webpack-cli": "^4.3.1"
   },
   "dependencies": {
-    "icethief-user-library": "6.0.0"
+    "icethief-user-library": "8.0.0"
   }
 }
